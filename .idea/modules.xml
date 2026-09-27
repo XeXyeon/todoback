@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/todoback.iml" filepath="$PROJECT_DIR$/.idea/todoback.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/toodback.main.iml" filepath="$PROJECT_DIR$/.idea/modules/toodback.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/toodback.test.iml" filepath="$PROJECT_DIR$/.idea/modules/toodback.test.iml" />
     </modules>
   </component>
 </project>

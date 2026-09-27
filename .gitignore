@@ -1,0 +1,7 @@
+.gradle/
+build/
+target/
+boarddb*.db
+.idea/
+*.iml
+.env

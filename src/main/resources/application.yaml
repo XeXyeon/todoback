@@ -1,3 +1,16 @@
+server:
+  port: 8081
+
 spring:
   application:
     name: toodback
+  datasource:
+    url: jdbc:h2:file:./boarddb
+  jpa:
+    hibernate:
+      ddl-auto: update
+    open-in-view: false
+
+jwt:
+  secret: ${JWT_SECRET:}
+  expiration-millis: 3600000
